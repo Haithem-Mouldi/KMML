@@ -1,6 +1,6 @@
 # Kernel Methods data challenge
 
-for this data challenge, kernel svm and HOG descriptors were coded from scratch and can be found in the Challenge.py file.
+For this data challenge, kernel svm and HOG descriptors were coded from scratch and can be found in the Challenge.py file.
 In order to create the submission file please type the following command line while placed in the good folder:
 
 ``
