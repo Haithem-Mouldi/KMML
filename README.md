@@ -1,7 +1,7 @@
 # Kernel Methods data challenge
 
 For this data challenge, kernel svm and HOG descriptors were coded from scratch and can be found in the Challenge.py file.
-In order to create the submission file please type the following command line while placed in the good folder:
+In order to create the submission file please put the three files in the folder KaggleData and type the following command line while placed in the folder containing Challenge.py file:
 
 ``
 python Challenge.py
